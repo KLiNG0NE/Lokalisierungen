@@ -9,3 +9,9 @@ Dieses Markdown-Spickzettel bietet einen schnellen Überblick über alle Markdow
 ### Grundlegende Syntax
 
 Dies sind die Elemente, die in John Grubers ursprünglichem Designdokument beschrieben sind. Alle Markdown-Anwendungen unterstützen diese Elemente.
+
+--
+
+Bei diesem Text handelt es sich um eine Übersetzung der englischen Original-Seite:
+
+https://www.markdownguide.org/cheat-sheet/
