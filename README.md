@@ -1,7 +1,7 @@
 # Lokalisierungen
 
-Sprachdatei für Xlight FTP Server
+Sprachdateien für unterschiedlichste Programme
 
-Xlight FTP Server 3.9.4.6
+Xlight FTP Server
 
-Offizielle Website: https://www.xlightftpd.com/
+[github.com/KLiNG0NE](https://github.com/KLiNG0NE/Lokalisierungen/)
